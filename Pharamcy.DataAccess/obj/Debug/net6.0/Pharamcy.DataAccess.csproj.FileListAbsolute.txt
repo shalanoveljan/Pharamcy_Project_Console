@@ -1,0 +1,17 @@
+C:\Users\OMEN\Desktop\VS Code\Pharamcy.DataAccess\obj\Debug\net6.0\Pharamcy.DataAccess.csproj.AssemblyReference.cache
+C:\Users\OMEN\Desktop\VS Code\Pharamcy.DataAccess\obj\Debug\net6.0\Pharamcy.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Desktop\VS Code\Pharamcy.DataAccess\obj\Debug\net6.0\Pharamcy.DataAccess.AssemblyInfoInputs.cache
+C:\Users\OMEN\Desktop\VS Code\Pharamcy.DataAccess\obj\Debug\net6.0\Pharamcy.DataAccess.AssemblyInfo.cs
+C:\Users\OMEN\Desktop\VS Code\Pharamcy.DataAccess\obj\Debug\net6.0\Pharamcy.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Desktop\VS Code\Pharamcy.DataAccess\bin\Debug\net6.0\Pharamcy.DataAccess.deps.json
+C:\Users\OMEN\Desktop\VS Code\Pharamcy.DataAccess\bin\Debug\net6.0\Pharamcy.DataAccess.runtimeconfig.json
+C:\Users\OMEN\Desktop\VS Code\Pharamcy.DataAccess\bin\Debug\net6.0\Pharamcy.DataAccess.dll
+C:\Users\OMEN\Desktop\VS Code\Pharamcy.DataAccess\bin\Debug\net6.0\Pharamcy.DataAccess.pdb
+C:\Users\OMEN\Desktop\VS Code\Pharamcy.DataAccess\bin\Debug\net6.0\Pharamcy.Core.dll
+C:\Users\OMEN\Desktop\VS Code\Pharamcy.DataAccess\bin\Debug\net6.0\Pharamcy.Core.pdb
+C:\Users\OMEN\Desktop\VS Code\Pharamcy.DataAccess\obj\Debug\net6.0\Pharamcy.DataAccess.csproj.CopyComplete
+C:\Users\OMEN\Desktop\VS Code\Pharamcy.DataAccess\obj\Debug\net6.0\Pharamcy.DataAccess.dll
+C:\Users\OMEN\Desktop\VS Code\Pharamcy.DataAccess\obj\Debug\net6.0\refint\Pharamcy.DataAccess.dll
+C:\Users\OMEN\Desktop\VS Code\Pharamcy.DataAccess\obj\Debug\net6.0\Pharamcy.DataAccess.pdb
+C:\Users\OMEN\Desktop\VS Code\Pharamcy.DataAccess\obj\Debug\net6.0\Pharamcy.DataAccess.genruntimeconfig.cache
+C:\Users\OMEN\Desktop\VS Code\Pharamcy.DataAccess\obj\Debug\net6.0\ref\Pharamcy.DataAccess.dll
