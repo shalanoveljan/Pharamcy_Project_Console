@@ -10,3 +10,15 @@ C:\Users\OMEN\Desktop\VS Code\Pharamcy.Core\obj\Debug\net6.0\Pharamcy.Core.dll
 C:\Users\OMEN\Desktop\VS Code\Pharamcy.Core\obj\Debug\net6.0\refint\Pharamcy.Core.dll
 C:\Users\OMEN\Desktop\VS Code\Pharamcy.Core\obj\Debug\net6.0\Pharamcy.Core.pdb
 C:\Users\OMEN\Desktop\VS Code\Pharamcy.Core\obj\Debug\net6.0\ref\Pharamcy.Core.dll
+C:\Users\OMEN\Desktop\BackEnd\PharamcyProjectConsole\Pharamcy.Core\bin\Debug\net6.0\Pharamcy.Core.deps.json
+C:\Users\OMEN\Desktop\BackEnd\PharamcyProjectConsole\Pharamcy.Core\bin\Debug\net6.0\Pharamcy.Core.dll
+C:\Users\OMEN\Desktop\BackEnd\PharamcyProjectConsole\Pharamcy.Core\bin\Debug\net6.0\Pharamcy.Core.pdb
+C:\Users\OMEN\Desktop\BackEnd\PharamcyProjectConsole\Pharamcy.Core\obj\Debug\net6.0\Pharamcy.Core.csproj.AssemblyReference.cache
+C:\Users\OMEN\Desktop\BackEnd\PharamcyProjectConsole\Pharamcy.Core\obj\Debug\net6.0\Pharamcy.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Desktop\BackEnd\PharamcyProjectConsole\Pharamcy.Core\obj\Debug\net6.0\Pharamcy.Core.AssemblyInfoInputs.cache
+C:\Users\OMEN\Desktop\BackEnd\PharamcyProjectConsole\Pharamcy.Core\obj\Debug\net6.0\Pharamcy.Core.AssemblyInfo.cs
+C:\Users\OMEN\Desktop\BackEnd\PharamcyProjectConsole\Pharamcy.Core\obj\Debug\net6.0\Pharamcy.Core.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Desktop\BackEnd\PharamcyProjectConsole\Pharamcy.Core\obj\Debug\net6.0\Pharamcy.Core.dll
+C:\Users\OMEN\Desktop\BackEnd\PharamcyProjectConsole\Pharamcy.Core\obj\Debug\net6.0\refint\Pharamcy.Core.dll
+C:\Users\OMEN\Desktop\BackEnd\PharamcyProjectConsole\Pharamcy.Core\obj\Debug\net6.0\Pharamcy.Core.pdb
+C:\Users\OMEN\Desktop\BackEnd\PharamcyProjectConsole\Pharamcy.Core\obj\Debug\net6.0\ref\Pharamcy.Core.dll

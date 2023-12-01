@@ -12,8 +12,10 @@ namespace Pharamcy.Service.Implementations
     {
         public void AdminDashboard()
         {
-            Console.Clear();
             EmployeService employeService = new EmployeService();
+            DrugService drugService = new DrugService();
+            Admin:
+            Console.Clear();
 
             MyConsole.WriteLine("1.ishchi elave et", ConsoleColor.DarkYellow);
             MyConsole.WriteLine("2.ishchi sil", ConsoleColor.DarkYellow);
@@ -29,20 +31,28 @@ namespace Pharamcy.Service.Implementations
             {
                 case "1":
                     employeService.Create();
-                    break;
+                    goto Admin;
+                    
                 case "2":
                     employeService.Delete();
-                    break;
+                    goto Admin;
+
                 case "3":
-                    break;
+                    employeService.Update();
+                    goto Admin;
                 case "4":
-                    break;
+                    drugService.Create();
+                    goto Admin;
                 case "5":
-                    break;
+                    drugService.Delete();
+                    goto Admin;
+                    
                 case "6":
-                    break;
+                    drugService.Update();
+                   goto Admin;
                 case "7":
                     break;
+
 
                 default:
                     break;

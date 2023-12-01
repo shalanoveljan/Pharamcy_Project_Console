@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "93xTM0pOSOJabNv/BnriD1K7LNAI93uaqWWLwOkkmUhoohRODD7P7amHbK/diPwhd1faVC6NtGJl1HTZAH1OMw==",
+  "dgSpecHash": "ND0PBY8ThI+v99z4/ukbSAi9gk2PRgEubzCFeMWN2X/QbEYYjxs5lNPMEilohPiZU/S4DukqqbVM53hSM9B+xQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\OMEN\\Desktop\\VS Code\\Pharamcy.DataAccess\\Pharamcy.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\OMEN\\Desktop\\BackEnd\\PharamcyProjectConsole\\Pharamcy.DataAccess\\Pharamcy.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OMEN\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\OMEN\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -16,7 +16,7 @@ namespace Pharamcy.Core.Models
         public string Password { get; set; }
         public Gender Gender { get; set; }
         public int RoleTypeId { get; set; }
-        public RoleType? Role { get; set; }
+        public RoleType Role { get; set; }
         public List<Pharamcy>? pharamcies { get; set; }
         //public int PharamcyId { get; set; }
 

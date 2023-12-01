@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8EL8jM2fTuiE7xMBN34ejgYkDX7jBaSZ4cT7KjO17nJVGOSCZytdn/NliXZzmsfKr4KgCJ+rhCUJTCqRUX1sxw==",
+  "dgSpecHash": "YrHwiQZaLXVmWGfXjQeGGV3qFiAWTlOmnXN3AxyvYMRt+SP6iw0VFINS3MEEQT6MxJktDlFUkPuj/+sUIDAXoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\OMEN\\Desktop\\VS Code\\Pharamcy.Service\\Pharamcy.Service.csproj",
+  "projectFilePath": "C:\\Users\\OMEN\\Desktop\\BackEnd\\PharamcyProjectConsole\\Pharamcy.Service\\Pharamcy.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OMEN\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\OMEN\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

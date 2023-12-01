@@ -12,7 +12,7 @@ using Pharamcy.DataAccess.DbContext;
 namespace Pharamcy.DataAccess.Migrations
 {
     [DbContext(typeof(PharamcyDbContext))]
-    [Migration("20231127111646_added")]
+    [Migration("20231129095832_added")]
     partial class added
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

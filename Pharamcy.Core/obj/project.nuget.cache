@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kOMPo8jy7cfbJRgOuXiY3noURNyCWMhGPH4Mljss+Sj50iDRqC/bcU+4sk0WmutBRFMZIas3hvPpkz/ECWDobA==",
+  "dgSpecHash": "n52YeznLLLW6O0xtuHmWmVZDvKuaNkZTDJ5ogEnhs8+IaxM32RAn2AOin21eYKDGacV1XOPkaYUg6cjifC+q6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\OMEN\\Desktop\\VS Code\\Pharamcy.Core\\Pharamcy.Core.csproj",
+  "projectFilePath": "C:\\Users\\OMEN\\Desktop\\BackEnd\\PharamcyProjectConsole\\Pharamcy.Core\\Pharamcy.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

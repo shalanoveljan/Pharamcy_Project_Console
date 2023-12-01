@@ -63,7 +63,7 @@ namespace Pharamcy.Service.Implementations
             {
                 MyConsole.Write("Maashi daxil edin : ");
                 int.TryParse(Console.ReadLine(), out salary);
-            } while (salary < 100 || salary > 3000);
+            } while (salary < 100 || salary > 30000);
             do
             {
                 MyConsole.Write("Username daxil edin : ");
